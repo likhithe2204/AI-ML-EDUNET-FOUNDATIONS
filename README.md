@@ -8,9 +8,9 @@ This repository showcases my learning journey and hands-on projects completed du
 
 | Course | Badge |
 |--------|-------|
-| Artificial Intelligence Fundamentals🎖️🏅 | ![AI Badge](artificial-intelligence-fundamentals.png) |
-| Getting Started with Artificial Intelligence🎖️🏅 | ![Getting Started Badge](getting-started-with-artificial-intelligence.png) |
-| Generative AI in Action🎖️🏅 | ![Gen AI Badge](generative-ai-in-action.png) |
+| ## Artificial Intelligence Fundamentals🎖️ | ![AI Badge](artificial-intelligence-fundamentals.png) |
+| ## Getting Started with Artificial Intelligence🎖️ | ![Getting Started Badge](getting-started-with-artificial-intelligence.png) |
+| ## Generative AI in Action🎖️ | ![Gen AI Badge](generative-ai-in-action.png) |
 
 🗂️ PDF Copies:
 - [`ArtificialIntelligenceFundamentals_Badge20240704-7-fnptrr.pdf`](./ArtificialIntelligenceFundamentals_Badge20240704-7-fnptrr.pdf)  
